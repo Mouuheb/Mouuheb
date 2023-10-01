@@ -49,22 +49,22 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,gdscript" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,godot,discord,py,vite" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,django,html,css,vscode,figma,git" />
 </div>
 
 <br/>
 <hr/>
-
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mouuheb/Mouuheb/output/github-contribution-grid-snake.svg" />
-  
+  --
   <br/><br/><br/>
 </div>
-
-<hr/>
+--
+<hr/>-->
 <!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
