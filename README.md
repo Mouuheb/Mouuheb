@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
  <hr/>
  
-<h2 align="center" color="bleu">Languages-Frameworks-Tools</h2>
+<h2 align="center" 	color=#0000FF>Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,godot,discord,vite" /><br>
