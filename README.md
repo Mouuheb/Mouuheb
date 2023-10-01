@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,godot,discord,py,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,godot,discord,vite" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,django,html,css,vscode,figma,git" />
 </div>
 
