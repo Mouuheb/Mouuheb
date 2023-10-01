@@ -32,15 +32,16 @@ Here are some ideas to get you started:
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mouhebhtiwch@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+<!--
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <!--</a>-->
 </div>
 
  <hr/>
@@ -48,8 +49,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mysql,django,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,gdscript" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,django,html,css,vscode,figma,git" />
 </div>
 
 <br/>
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
 </div>
 
 <hr/>
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -73,7 +74,7 @@ Here are some ideas to get you started:
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Mouuheb.vercel.app/api/top-langs/?username=Mouuheb&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+-->
 <br/><br/>
 <hr/>
 
